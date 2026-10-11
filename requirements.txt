@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 jinja2==2.11.2
 markupsafe==1.1.1
 more-itertools==8.4.0
-packaging==20.4
+packaging==20.9
 py==1.9.0
 wcwidth==0.2.5
 werkzeug==1.0.1
