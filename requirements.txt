@@ -1,5 +1,5 @@
 Flask==1.1.1
-pytest==5.3.5
+pytest==9.1.1
 coverage==5.2.1
 pytest-cov==2.10.1
 attrs==19.3.0
